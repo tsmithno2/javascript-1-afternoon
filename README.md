@@ -4,6 +4,8 @@
 
 In this project, we'll provide practice JavaScript problems to help you better understand the fundamentals.
 
+
+Trevor was here my guy!! asuhh duds
 ## Setup
 
 * `Fork` this repository.
