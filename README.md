@@ -5,7 +5,7 @@
 In this project, we'll provide practice JavaScript problems to help you better understand the fundamentals.
 
 
-Trevor was here my guy!! asuhh duds lets go again for the second time
+Trevor was here my guy!! asuhh duds lets go again for the second time..... this time in the console
 ## Setup
 
 * `Fork` this repository.
